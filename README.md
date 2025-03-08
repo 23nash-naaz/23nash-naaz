@@ -3,104 +3,56 @@
 🎯 Building AI-powered applications  
 📌 Open to collaborations and learning opportunities  
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+|+LLM/AIML+Enthusiast;Building+AI+Solutions+for+Better+Tomorrow;Passionate+about+Tech+Innovation+and+Coding!">
-</p>
+![Female Developer](https://images.unsplash.com/photo-1581092335431-0c77489a9695)
 
-<!-- GIF Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+<h3 align="center">🚀 Full Stack Developer | LLM & AI/ML Enthusiast</h3>
+
+- 🔭 I’m currently working on **Women’s Safety Project**
+- 🌱 I’m currently learning **LLM and NLP techniques**
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/23nash-naaz?tab=repositories)
+- 💬 Ask me about **React, Node.js, ML Algorithms, LLM Projects**
+- 📫 How to reach me: **nashrahnaazneen@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MPr5ghGRJL8oZhdv4hiR0nMGhpGBwo5d/view?usp=sharing)
+
+---
+
+<h3 align="left">🌍 Connect with Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nashrah-naazneen-20a904286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/c/@nashrahnaazneen9787" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://codeforces.com/profile/https://www.naukri.com/code360/profile/8579a904-fe61-4893-bbdb-45690ec83ab2" target="_blank"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"></a>
 </p>
 
 ---
 
-<h2 align="center"> 👋 About Me </h2>
-
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — *Cory House*
-
-### 👨‍💻 **Who am I?**
-- 🔭 Currently working on **AI-Driven Women Safety Project**
-- 🌱 Learning **LLM, NLP & AI-powered solutions**
-- 💬 Ask me about **React, Node.js, ML algorithms, LLM projects**
-- ⚡ Fun Fact: I turn **Coffee☕ into Code💻**
-- 📫 Reach me at **nashrahnaazneen@gmail.com**
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1MPr5ghGRJL8oZhdv4hiR0nMGhpGBwo5d/view?usp=sharing)**  
-
----
-
-<h2 align="center">📢 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/nashrah-naazneen-20a904286"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/c/@nashrahnaazneen9787"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:nashrahnaazneen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,express,python,flask,mongodb,postgres,tailwind,bootstrap,figma,git,github,vercel,docker,tensorflow,pytorch" />
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23nash-naaz&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=23nash-naaz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=23nash-naaz&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=23nash-naaz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=23nash-naaz&theme=tokyonight"/>
-</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23nash-naaz&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<h2 align="center">🚀 Projects & Contributions</h2>
-<p align="center">
-  <a href="https://github.com/23nash-naaz?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://testvault.vercel.app/">
-    <img src="https://img.shields.io/badge/TestVault-Project-%2338B2AC.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2 align="center">💡 Fun & Engaging Metrics</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23nash-naaz&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23nash-naaz&theme=dracula"/>
-</p>
-
----
-
-<h2 align="center">🎵 Now Playing</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false">
-</p>
-
----
-
-<h2 align="center">🎯 My Goals for 2025</h2>
-- ✅ Contribute to **Open Source AI Projects**  
-- ✅ Work on **LLM-based Real-World Applications**  
-- ✅ Build a **SaaS AI Startup**  
-- ✅ Improve **AI & Data Science Knowledge**  
-
----
-
-<h2 align="center">🤝 Support & Sponsor</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
 
 
 
