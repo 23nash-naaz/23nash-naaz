@@ -11,7 +11,7 @@
 
 <!-- GIF Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fade5934f-54ae-4ceb-8937-ad6f3dc7702e_1920x946.gif" width="500" alt="Coding GIF">
 </p>
 
 ---
