@@ -4,9 +4,13 @@
 📌 Open to collaborations and learning opportunities  
 
 
-<!-- Banner Image -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+|+LLM/AIML+Enthusiast;Building+AI+Solutions+for+Better+Tomorrow;Passionate+about+Tech+Innovation+and+Coding!">
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=23nash-naaz&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 <!-- GIF Animation -->
@@ -56,6 +60,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23nash-naaz&layout=compact&theme=tokyonight"/>
 </p>
 
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/main/demo/graph.png" />
+</p>
+
 ---
 
 <h2 align="center">🚀 Projects & Contributions</h2>
@@ -81,6 +90,23 @@
 
 ---
 
+<h2 align="center">🎯 My Goals for 2025</h2>
+- ✅ Contribute to **Open Source AI Projects**  
+- ✅ Work on **LLM-based Real-World Applications**  
+- ✅ Build a **SaaS AI Startup**  
+- ✅ Improve **AI & Data Science Knowledge**  
+
+---
+
+<h2 align="center">🌌 Explore My 3D GitHub Skyline</h2>
+<p align="center">
+  <a href="https://skyline.github.com/23nash-naaz/2024">
+    <img src="https://img.shields.io/badge/GitHub-Skyline-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <h2 align="center">🎵 Now Playing</h2>
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false">
@@ -88,11 +114,10 @@
 
 ---
 
-<h2 align="center">🎯 My Goals for 2025</h2>
-- ✅ Contribute to **Open Source AI Projects**  
-- ✅ Work on **LLM-based Real-World Applications**  
-- ✅ Build a **SaaS AI Startup**  
-- ✅ Improve **AI & Data Science Knowledge**  
+<h2 align="center">💬 Dynamic Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
@@ -102,6 +127,7 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
+
 
 
 
