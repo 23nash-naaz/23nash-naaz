@@ -14,6 +14,11 @@
   <img src="https://img.shields.io/github/followers/23nash-naaz?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers">
 </p>
 
+<!-- GIF Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/23nash-naaz/23nash-naaz/715938d4cb90c44e23221284ef15612707cb20a5/giphy.gif" width="500" alt="ML GIF">
+</p>
+
 ---
 
 ## 🎯 Professional Summary
@@ -35,7 +40,35 @@ Passionate Full Stack Developer with expertise in **AI/ML** and **Web Developmen
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">AI-Driven Women Safety Platform</h3>
+        <h3 align="center">🏥 MedAI - Medical Image Analytics</h3>
+        <div align="center">
+          <a href="https://ai-medical-assistant-bot.streamlit.app/">
+            <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+          </a>
+          <a href="https://github.com/23nash-naaz/MedAI">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+          <p><strong>Tech Stack:</strong> Python, TensorFlow, Streamlit, OpenCV</p>
+          <p>AI-powered medical assistant for vital image analytics and diagnosis support</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🔐 AI Cybersecurity Advisor</h3>
+        <div align="center">
+          <a href="https://aicybersecurity-advisor-d8pr9bxqoyyzimqh4qfmla.streamlit.app/">
+            <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+          </a>
+          <a href="https://github.com/23nash-naaz/ai-cybersecurity-advisor">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+          <p><strong>Tech Stack:</strong> Python, LLMs, NLP, Streamlit</p>
+          <p>Intelligent cybersecurity advisory system providing real-time threat analysis</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">👩‍💼 AI-Driven Women Safety Platform</h3>
         <div align="center">
           <a href="https://github.com/23nash-naaz/women-safety-ai">
             <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github" alt="View Project">
@@ -45,10 +78,13 @@ Passionate Full Stack Developer with expertise in **AI/ML** and **Web Developmen
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">TestVault - Educational Platform</h3>
+        <h3 align="center">📚 TestVault - Educational Platform</h3>
         <div align="center">
           <a href="https://testvault.vercel.app/">
-            <img src="https://img.shields.io/badge/Live%20Demo-4ECDC4?style=for-the-badge&logo=vercel" alt="Live Demo">
+            <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+          </a>
+          <a href="https://github.com/23nash-naaz/testvault">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
           <p><strong>Tech Stack:</strong> Next.js, TypeScript, MongoDB</p>
           <p>Comprehensive testing platform with AI-powered analytics and performance tracking</p>
@@ -95,6 +131,7 @@ Passionate Full Stack Developer with expertise in **AI/ML** and **Web Developmen
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 </details>
 
