@@ -245,13 +245,13 @@
 <tr>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="80">
-<h4>Microsoft</h4>
+<h4>JP Morgan and chase</h4>
 <p><b>Software Engineering Intern</b><br>
-<i>Cloud & AI Division</i></p>
+<i>Virtual internship from Forage</i></p>
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="80">
-<h4>Edunet Foundation</h4>
+<h4>Microsoft and Edunet Foundation</h4>
 <p><b>AI/ML Intern</b><br>
 <i>AICTE Approved Program</i></p>
 </td>
