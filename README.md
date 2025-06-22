@@ -1,139 +1,181 @@
-## Hi there! 👋 I'm Nashrah Naazneen
-🚀 Passionate about AI, ML, and Web Development  
-🎯 Building AI-powered applications  
-📌 Open to collaborations and learning opportunities  
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+|+LLM/AIML+Enthusiast;Building+AI+Solutions+for+Better+Tomorrow;Passionate+about+Tech+Innovation+and+Coding!">
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23nash-naaz&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-<!-- GIF Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/23nash-naaz/23nash-naaz/715938d4cb90c44e23221284ef15612707cb20a5/giphy.gif" width="500" alt="ML GIF">
-</p>
-
----
-
-<h2 align="center"> 👋 About Me </h2>
-
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — *Cory House*
-
-### 👨‍💻 **Who am I?**
-- 🔭 Currently working on **AI-Driven Women Safety Project**
-- 🌱 Learning **LLM, NLP & AI-powered solutions**
-- 💬 Ask me about **React, Node.js, ML algorithms, LLM projects**
-- ⚡ Fun Fact: I turn **Coffee☕ into Code💻**
-- 📫 Reach me at **nashrahnaazneen@gmail.com**
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1MPr5ghGRJL8oZhdv4hiR0nMGhpGBwo5d/view?usp=sharing)**  
-
----
-
-<h2 align="center">📢 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/nashrah-naazneen-20a904286"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/c/@nashrahnaazneen9787"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:nashrahnaazneen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<p align="center">
- <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,php,matlab,react,nextjs,vue,nodejs,express,html,css,tailwind,bootstrap,mongodb,postgres,firebase,tensorflow,pytorch,pandas,scikit-learn,seaborn,opencv,git,github,vercel,docker,bash,figma" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=23nash-naaz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=23nash-naaz&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nashrah%20Naazneen&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer&descAlignY=55&descSize=25" />
 </div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23nash-naaz&layout=compact&theme=tokyonight"/>
+  <a href="https://linkedin.com/in/nashrah-naazneen-20a904286"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nashrahnaazneen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/1MPr5ghGRJL8oZhdv4hiR0nMGhpGBwo5d/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
+  <a href="https://www.youtube.com/c/@nashrahnaazneen9787"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-<!-- 3D Contribution Graph -->
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/main/demo/graph.png" />
+  <img src="https://komarev.com/ghpvc/?username=23nash-naaz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/23nash-naaz?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers">
 </p>
 
 ---
 
-<h2 align="center">🚀 Projects & Contributions</h2>
+## 🎯 Professional Summary
+
+Passionate Full Stack Developer with expertise in **AI/ML** and **Web Development**, dedicated to building innovative solutions that make a real-world impact. Currently developing an **AI-Driven Women Safety Project** leveraging cutting-edge LLM technologies. Experienced in creating scalable applications with modern tech stacks and implementing machine learning algorithms for practical use cases.
+
+### 🔍 Core Competencies
+- **Frontend:** React.js, Next.js, Vue.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL
+- **AI/ML:** TensorFlow, PyTorch, LLMs, NLP, Computer Vision
+- **Database:** MongoDB, PostgreSQL, Firebase
+- **DevOps:** Docker, CI/CD, Git, Vercel
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">AI-Driven Women Safety Platform</h3>
+        <div align="center">
+          <a href="https://github.com/23nash-naaz/women-safety-ai">
+            <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github" alt="View Project">
+          </a>
+          <p><strong>Tech Stack:</strong> Python, TensorFlow, React, Node.js</p>
+          <p>Real-time threat detection system using AI/ML algorithms with emergency response features</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">TestVault - Educational Platform</h3>
+        <div align="center">
+          <a href="https://testvault.vercel.app/">
+            <img src="https://img.shields.io/badge/Live%20Demo-4ECDC4?style=for-the-badge&logo=vercel" alt="Live Demo">
+          </a>
+          <p><strong>Tech Stack:</strong> Next.js, TypeScript, MongoDB</p>
+          <p>Comprehensive testing platform with AI-powered analytics and performance tracking</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💻 Technical Expertise
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 <p align="center">
-  <a href="https://github.com/23nash-naaz?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=23nash-naaz&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Nashrah Naazneen github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23nash-naaz&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23nash-naaz&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23nash-naaz&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=23nash-naaz&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+- 🥇 **AI/ML Specialization** - Coursera (2024)
+- 🏅 **Full Stack Web Development** - Certification (2023)
+- 🎖️ **Open Source Contributor** - Multiple Projects
+- 🌟 **Hackathon Winner** - AI for Social Good (2024)
+
+---
+
+## 📈 Current Focus
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60px">
+      <br><strong>LLM Development</strong>
+      <br>Building advanced NLP applications
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/cloud-development.png" width="60px">
+      <br><strong>Cloud Architecture</strong>
+      <br>Scalable AI infrastructure
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/open-source.png" width="60px">
+      <br><strong>Open Source</strong>
+      <br>Contributing to AI/ML projects
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Goals 2025
+
+- 🎯 Lead AI-driven product development initiatives
+- 🚀 Contribute to cutting-edge open-source AI projects
+- 💡 Launch AI-powered SaaS solution
+- 📚 Publish research papers on LLM applications
+- 🌍 Build technology solutions for social impact
+
+---
+
+## 📬 Let's Connect!
+
+<p align="center">
+  <i>I'm always excited to collaborate on innovative projects and discuss new opportunities!</i>
+</p>
+
+<p align="center">
+  <a href="mailto:nashrahnaazneen@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://testvault.vercel.app/">
-    <img src="https://img.shields.io/badge/TestVault-Project-%2338B2AC.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
----
-
-<h2 align="center">💡 Fun & Engaging Metrics</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23nash-naaz&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23nash-naaz&theme=dracula"/>
-</p>
-
----
-
-<h2 align="center">🎯 My Goals for 2025</h2>
-- ✅ Contribute to **Open Source AI Projects**  
-- ✅ Work on **LLM-based Real-World Applications**  
-- ✅ Build a **SaaS AI Startup**  
-- ✅ Improve **AI & Data Science Knowledge**  
-
----
-
-<h2 align="center">🌌 Explore My 3D GitHub Skyline</h2>
-<p align="center">
-  <a href="https://skyline.github.com/23nash-naaz/2024">
-    <img src="https://img.shields.io/badge/GitHub-Skyline-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🎵 Now Playing</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false">
-</p>
-
----
-
-<h2 align="center">💬 Dynamic Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">🤝 Support & Sponsor</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
-
-
-
-
-
-
-<!---
-23nash-naaz/23nash-naaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+</div>
